@@ -123,8 +123,6 @@ TestBaseModel class:
 * `def setUpClass(cls)` - Set up for the doc tests
 * `def test_pep8_conformance_user(self)` - Test that models/user.py conforms to PEP8
 * `def test_pep8_conformance_test_user(self)` - Test that tests/test_models/test_user.py conforms to PEP8
-* `def test_user_module_docstring(self)` - Test for the user.py module docstring
-* `def test_user_class_docstring(self)` - Test for the User class docstring
 
 
 ## Examples of use
